@@ -27,7 +27,7 @@ else if (score >80)
 else 
     console.log("Your english is not good!");
 
-function myNumber(number){
+function myNumber(number){ //Function Course Work
     if(number%2!=0) 
         console.log("Your number is odd number!");
     else
